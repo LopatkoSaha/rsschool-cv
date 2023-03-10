@@ -20,6 +20,7 @@
 + VS Code;
 + Corel Draw;
 ## Пример кода:
+```
 function logEvenNumbers(num) {
     if (num <=0) {
       return "this number error";
@@ -34,7 +35,7 @@ function logEvenNumbers(num) {
   }
 
   logEvenNumbers(15);
-
+```
 ## Языки:
   + Украинский - родной
   + Русский - хорошо
